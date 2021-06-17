@@ -1,3 +1,5 @@
+## [8.3.5](https://github.com/playable-cn/react-native-fast-image/compare/v8.3.4...v8.3.5) (2021-06-17)
+
 ## [8.3.4](https://github.com/DylanVann/react-native-fast-image/compare/v8.3.3...v8.3.4) (2020-11-17)
 
 ## [8.3.3](https://github.com/DylanVann/react-native-fast-image/compare/v8.3.2...v8.3.3) (2020-11-01)
