@@ -1,6 +1,6 @@
 {
-    "name": "react-native-fast-image-playable",
-    "version": "8.3.5",
+    "name": "@playable-cn/react-native-fast-image",
+    "version": "8.3.6",
     "description": "🚩 FastImage, performant React Native image component.",
     "keywords": [
         "cache",
